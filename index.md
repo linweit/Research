@@ -127,7 +127,7 @@ E-mail: linweit@cuhk.edu.hk
 
 ### Year 2014
 
-66. Lin H, Ning B, Li J,  Ho SC, Huss A, Vermeulen  R, and  **Tian LW\ \***. Lung Cancer Mortality  Among Women in Xuan Wei, China: A Comparison  of Spatial  Clustering Detection  Methods.  Asia-Pacific  Journal  of Public  Health  2012. [DOI: 10.1177/1010539512444778](http://dx.doi.org/10.1177/1010539512444778)  
+66. Lin H, Ning B, Li J,  Ho SC, Huss A, Vermeulen  R, and  **Tian LW\ \***. Lung Cancer Mortality  Among Women in Xuan Wei, China: A Comparison  of Spatial  Clustering Detection  Methods.  Asia-Pacific  Journal  of Public  Health  2014. [DOI: 10.1177/1010539512444778](http://dx.doi.org/10.1177/1010539512444778)  
 67. Chan JY,  Lin HL, and **Tian LW\ \***. Meteorological factors and El Nino Southern Oscillation are associated with paediatric varicella infections.  Epidemiology and Infection. Accepted on August 28, 2013 [DOI: 10.1017/S0950268813002306](http://dx.doi.org/10.1017/S0950268813002306)  
 68. Pun VC, Yu ITS, Qiu H, Ho KF, Sun ZW, Louie PKK, Wong TW, and **Tian LW\ \***. Short-Term Associations of Cause-Specific Emergency Hospitalizations and Particulate Matter Chemical Components in Hong Kong. American Journal of Epidemiology. [Accepted on Dec 17, 2013](https://dl.dropboxusercontent.com/u/24994281/underReview/vpAMJms.pdf)  
 69. Pun VC, Yu ITS, Ho KF, Qiu H, Sun ZW, and **Tian LW\ \***. Differential Effects of Ambient Source-Specific Particulate Matter on Ischemic Heart Disease Emergency Hospitalizations. Environmental Health Perspectives [Accepted on Dec 22, 2013](https://dl.dropboxusercontent.com/u/24994281/underReview/vpEHPms.pdf)   
