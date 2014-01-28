@@ -133,7 +133,7 @@ E-mail: linweit@cuhk.edu.hk
 69. Pun VC, Yu ITS, Ho KF, Qiu H, Sun ZW, and **Tian LW\ \***. Differential Effects of Ambient Source-Specific Particulate Matter on Ischemic Heart Disease Emergency Hospitalizations. Environmental Health Perspectives [Accepted on Dec 22, 2013](https://dl.dropboxusercontent.com/u/24994281/underReview/vpEHPms.pdf)   
 70. Yu HB, Duan JC, Yu Y, Li Y, Liu XM, Zhou XQ, Ho KF, **Tian LW \***, and Sun ZW \*. Silica nanoparticles induce autophagy and autophagic cell death in HepG2 cells triggered by reactive oxygen species. Journal of Hazardous Materials [Accepted on Jan 7, 2014](https://dl.dropboxusercontent.com/u/24994281/underReview/silicaAutophageHazMat.pdf)  
 71. Ho KF \*, Ho SS, Dai WT, Cao JJ, Huang RJ, **Tian LW** and Deng WJ. Seasonal variations of monocarbonyl and dicarbonyl in urban and sub-urban sites of Xi'an, China. Environ Monit Assess. 2014 [DOI: 10.1007/s10661-013-3584-6](http://dx.doi.org/10.1007/s10661-013-3584-6)
-72. Zhao L, Zhang LH \*, Zhang XL, Li ZZ, **Tian LW** and Deng WJ \*. An Analysis of 1256 Cases of Sporadic Ruptured Cerebral Aneurysm in a Single Chinese Institution. PLoS One. 2014; 9(1): e85668. [DOI: 10.1371/journal.pone.0085668](http://dx.doi.org/10.1371/journal.pone.0085668) 
+72. Zhao L, Zhang LH \*, Zhang XL, Li ZZ, **Tian LW** and Wang YX \*. An Analysis of 1256 Cases of Sporadic Ruptured Cerebral Aneurysm in a Single Chinese Institution. PLoS One. 2014; 9(1): e85668. [DOI: 10.1371/journal.pone.0085668](http://dx.doi.org/10.1371/journal.pone.0085668) 
 
 
 
