@@ -135,6 +135,7 @@ E-mail: linweit@cuhk.edu.hk
 71. Ho KF \*, Ho SS, Dai WT, Cao JJ, Huang RJ, **Tian LW** and Deng WJ. Seasonal variations of monocarbonyl and dicarbonyl in urban and sub-urban sites of Xi'an, China. Environ Monit Assess. 2014 [DOI: 10.1007/s10661-013-3584-6](http://dx.doi.org/10.1007/s10661-013-3584-6)
 72. Zhao L, Zhang LH \*, Zhang XL, Li ZZ, **Tian LW** and Wang YX \*. An Analysis of 1256 Cases of Sporadic Ruptured Cerebral Aneurysm in a Single Chinese Institution. PLoS One. 2014; 9(1): e85668. [DOI: 10.1371/journal.pone.0085668](http://dx.doi.org/10.1371/journal.pone.0085668) 
 73. Kim C, Chapman RS, Hu W, He XZ, Hosgood HD, Liu LZ, Lai H, Chen W, Silverman DT, Vermeulen R, **Tian LW**, Bassig B, Shen M, Zhang YW, Ma SG, Rothman N, Lan Q. Smoky coal, tobacco smoking, and lung cancer risk in Xuanwei, China. Lung Cancer. Elsevier Ireland Ltd; 2014 Jan 11;1–5. [DOI: 10.1016/j.lungcan.2014.01.004](http://dx.doi.org/10.1016/j.lungcan.2014.01.004) 
+74. Zhou YC, **Tian LW**, Wang XC, Ye LH, Zhao GQ, Yu M, Li GJ, Lei YJ, Huang YC. MicroRNA-195 inhibits non-small cell lung cancer cell proliferation, migration and invasion by targeting MYB. Cancer Lett. Elsevier Ireland Ltd; 2014 Jan 28. [DOI: 10.1016/j.canlet.2014.01.019](http://dx.doi.org/10.1016/j.canlet.2014.01.019)  
 
 
 
