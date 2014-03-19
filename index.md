@@ -122,7 +122,7 @@ E-mail: linweit@cuhk.edu.hk
 62. **Tian LW\ \***,  Ho KF, Louie PK,  Qiu  H, Pun  VC,  Kan  H, Yu  IT,  and  Wong  TW. Shipping Emissions Associated with Increased Cardiovascular  Hospitalizations.  Atmospheric Environment 2013;74:320-5. [DOI: 10.1016/j.atmosenv.2013.04.014](http://dx.doi.org/10.1016/j.atmosenv.2013.04.014)  
 63. **Tian LW\ \***,  Qiu H, Pun VC, Lin HL, Ge EJ, Chan JC, Louie PK, Ho KF, and Yu ITS. Ambient Carbon Monoxide Associated with Reduced Risk of Hospital Admissions for Respiratory Tract Infections.  American Journal of Respiratory and Critical Care Medicine 2013;188(10):1240-5. [DOI: 10.1164/rccm.201304-0676OC](http://www.atsjournals.org/doi/abs/10.1164/rccm.201304-0676OC)  
 64. Wei X, Zou G,  Yin J,  Walley  J,  Zhou B, Yu  Y,  **Tian LW**,  and  Chen  K.  Characteristics  of high  risk  people  with  cardiovascular  disease  in  Chinese  rural  areas: clinical indicators, disease patterns and drug treatment. PloS one 2013;8:e54169. [DOI: 10.1371/journal.pone.0054169](http://dx.doi.org/10.1371/journal.pone.0054169)  
-65. Yu ITS,  Qiu H, Wang  X,  **Tian LW**, and  Tse LA. Synergy between  particles  and nitrogen dioxide on emergency hospital admissions for cardiac diseases in Hong Kong. International Journal  of Cardiology 2013. [DOI: 10.1016/j.ijcard.2013.03.082](http://dx.doi.org/10.1016/j.ijcard.2013.03.082)  
+65. Yu ITS,  Qiu H, Wang  X,  **Tian LW**, and  Tse LA. Synergy between  particles  and nitrogen dioxide on emergency hospital admissions for cardiac diseases in Hong Kong. International Journal  of Cardiology 2013;168(3):2831-6. [DOI: 10.1016/j.ijcard.2013.03.082](http://dx.doi.org/10.1016/j.ijcard.2013.03.082)  
 
 
 ### Year 2014
