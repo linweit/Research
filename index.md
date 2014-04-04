@@ -137,6 +137,8 @@ E-mail: linweit@cuhk.edu.hk
 73. Kim C, Chapman RS, Hu W, He XZ, Hosgood HD, Liu LZ, Lai H, Chen W, Silverman DT, Vermeulen R, **Tian LW**, Bassig B, Shen M, Zhang YW, Ma SG, Rothman N, Lan Q. Smoky coal, tobacco smoking, and lung cancer risk in Xuanwei, China. Lung Cancer. Elsevier Ireland Ltd; 2014 Jan 11;1–5. [DOI: 10.1016/j.lungcan.2014.01.004](http://dx.doi.org/10.1016/j.lungcan.2014.01.004) 
 74. Zhou YC, **Tian LW**, Wang XC, Ye LH, Zhao GQ, Yu M, Li GJ, Lei YJ, Huang YC. MicroRNA-195 inhibits non-small cell lung cancer cell proliferation, migration and invasion by targeting MYB. Cancer Lett. Elsevier Ireland Ltd; 2014 Jan 28. [DOI: 10.1016/j.canlet.2014.01.019](http://dx.doi.org/10.1016/j.canlet.2014.01.019)  
 75. Lu L, Wang M, Xia WJ, **Tian LW**, Xu R, Li CH, Wang JX, Rong X, Xiong HP, Huang K, Huang JT, Nakano T, Bennett P, Zhang Y, Zhang LQ, and Fu YS. The migration patterns of HCV in China were characterized for five major subtypes based on 411 volunteer blood donors sampled in 17 provinces/municipalities. Journal of Virology. 2014; accepted on 2014-03-26. 
+76. Wu CW, Ng SC, Dong YJ, **Tian LW**, Ng SSM, Leung WW, Law WT, Yau TO, Chan FKL, Sung JJY, and Yu J. Identification of microRNA-135b in stool as a potential non-invasive biomarker for colorectal cancer and adenoma. Clinical Cancer Research. 2014 April 1. [DOI: 10.1158/1078-0432.CCR-13-1750](http://dx.doi.org/10.1158/1078-0432.CCR-13-1750)  
+
 
 
 
