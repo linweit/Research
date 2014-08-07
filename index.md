@@ -141,7 +141,9 @@ E-mail: linweit@cuhk.edu.hk
 77. Lee KY, Wong CKC, Chung KJ, Bien MY, Cao JJ, Han YM, **Tian LW**, Chang CC, Feng PH, Ho KF, and Chuang HC. Methionine oxidation in albumin by fine haze particulate matter: an in vitro and in vivo study. Journal of Hazardous Materials. 2014;274:384–391 [DOI: 10.1016/j.jhazmat.2014.04.029](http://dx.doi.org/10.1016/j.jhazmat.2014.04.029)   
 78. Guo YM, Gasparrini A, Armstrong B, Li SS, Tawatsupa B, Tobas A, Lavigne E, Coelho M, Leone M, Pan XC, Tong SL, **Tian LW**, Kim H, Hashizumel M, Hongdal Y, Guo YL, Wu CF, Punnasiri K, Yi SM, Michelozzi P, Hilario P, Saldiva N, and William G. Global variation and consistency in the effects of ambient temperature on mortality: a systematic evaluation. Epidemiology. Accepted on 2014-04-15. 
 79. Hu W, Downward GS, Reiss B, Xu J, Bassig B, Hosgood D, Zhang LL, Seow WJ, Wu GP, Chapman RS, **Tian LW**, Wei FS, Vermeulen R, Lan Q. Personal and indoor PM2.5 exposure from burning solid fuels in vented and unvented stoves in a rural region of China with a high incidence of lung cancer. Environmental Science & Technology. 2014. [DOI: 10.1021/es502201s](http://dx.doi.org/10.1021/es502201s) 
-80. **Tian LW \***, Ho KF, Wang T, Qiu H, Pun VC, Chan JC, Louie PKK, Yu ITS. Ambient Carbon Monoxide Associated with Reduced Risk of COPD Hospitalizations. American Journal of Epidemiology. Accepted on 2014-07-31. 
+80. **Tian LW \***, Ho KF, Wang T, Qiu H, Pun VC, Chan JC, Louie PKK, Yu ITS. Ambient carbon monoxide associated with reduced risk of COPD hospitalizations. American Journal of Epidemiology. Accepted on 2014-07-31. 
+81. Qiu H, **Tian LW \***, Pun VC, Ho KF, Yu ITS. Coarse particulate matter associated with increased risk of emergency hospital admissions for pneumonia in Hong Kong. Thorax. Accepted on 2014-08-07. 
+
 
 
 <!---
