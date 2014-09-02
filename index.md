@@ -22,7 +22,11 @@ E-mail: linweit@cuhk.edu.hk
 
 ### Google scholar profile: 
 
-<http://scholar.google.com/citations?user=w4HPdnsAAAAJ&hl>
+- <http://scholar.google.com/citations?user=w4HPdnsAAAAJ&hl>
+
+### My Researcher ID: 
+
+- <http://www.researcherid.com/rid/A-9736-2009>
 
 
 ## ISI Journal Articles
