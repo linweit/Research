@@ -147,7 +147,7 @@ E-mail: linweit@gmail.com
 79. Hu W, Downward GS, Reiss B, Xu J, Bassig B, Hosgood D, Zhang LL, Seow WJ, Wu GP, Chapman RS, **Tian LW**, Wei FS, Vermeulen R, Lan Q. Personal and indoor PM2.5 exposure from burning solid fuels in vented and unvented stoves in a rural region of China with a high incidence of lung cancer. Environmental Science & Technology. 2014:48:8456−8464 [DOI: 10.1021/es502201s](http://dx.doi.org/10.1021/es502201s) 
 80. **Tian LW \***, Ho KF, Wang T, Qiu H, Pun VC, Chan JC, Louie PKK, Yu ITS. Ambient carbon monoxide associated with reduced risk of COPD hospitalizations. American Journal of Epidemiology. Accepted on 2014-07-31. 
 81. Qiu H, **Tian LW \***, Pun VC, Ho KF, Wong TW, Yu ITS. Coarse particulate matter associated with increased risk of emergency hospital admissions for pneumonia in Hong Kong. Thorax. 2014. [DOI: 10.1136/thoraxjnl-2014-205429](http://dx.doi.org/10.1136/thoraxjnl-2014-205429) 
-82. Qiu H, Yu ITS, Tse LA, Chan EYY, Wong TW, **Tian LW \***. Greater temperature variation within a day associated with increased emergency hospital admissions for asthma. Science of the Total Environment. Accepted on 2014-10-03. 
+82. Qiu H, Yu ITS, Tse LA, Chan EYY, Wong TW, **Tian LW \***. Greater temperature variation within a day associated with increased emergency hospital admissions for asthma. Science of the Total Environment. [DOI: 10.1016/j.scitotenv.2014.10.003](http://dx.doi.org/10.1016/j.scitotenv.2014.10.003) 
 
 
 
