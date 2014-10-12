@@ -5,19 +5,11 @@
 ### Contacts
 
 **Linwei Tian**, PhD  
-Assistant Professor  
-Division of Occupational and Environmental Health  
-JC School of Public Health and Primary Care  
-The Chinese University of Hong Kong  
+Associate Professor  
+School of Public Health
+The University of Hong Kong  
 
-4/F, School of Public Health  
-Prince of Wales Hospital  
-Shatin-NT, Hong Kong  
-
-Office: +852 22528879  
-E-mail: linweit@gmail.com
-
-
+E-mail: linweit at gmail.com
 
 
 ### Google scholar profile: 
