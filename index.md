@@ -2,9 +2,7 @@
 
 
 
-### Contacts
-
-**Linwei Tian** 
+**Linwei Tian**  
 Associate Professor  
 School of Public Health  
 The University of Hong Kong  
