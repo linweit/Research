@@ -138,8 +138,7 @@ E-mail: linweit [at] hku.hk
 80. **Tian LW \***, Ho KF, Wang T, Qiu H, Pun VC, Chan JC, Louie PKK, Yu ITS. Ambient carbon monoxide associated with reduced risk of COPD hospitalizations. American Journal of Epidemiology. Accepted on 2014-07-31. 
 81. Qiu H, **Tian LW \***, Pun VC, Ho KF, Wong TW, Yu ITS. Coarse particulate matter associated with increased risk of emergency hospital admissions for pneumonia in Hong Kong. Thorax. 2014;69(11):1027-1033 [DOI: 10.1136/thoraxjnl-2014-205429](http://dx.doi.org/10.1136/thoraxjnl-2014-205429) 
 82. Qiu H, Yu ITS, Tse LA, Chan EYY, Wong TW, **Tian LW \***. Greater temperature variation within a day associated with increased emergency hospital admissions for asthma. Science of the Total Environment. 2015;505:508-513 [DOI: 10.1016/j.scitotenv.2014.10.003](http://dx.doi.org/10.1016/j.scitotenv.2014.10.003) 
-
-
+83. Ho KF, Ho SS, Huang RJ, Dai WT, Cao JJ, **Tian LW **, Deng WJ. Spatiotemporal distribution of carbonyl compounds in China. Environmental Pollution. 2014-11-26. [DOI: 10.1016/j.envpol.2014.11.014](http://dx.doi.org/10.1016/j.envpol.2014.11.014)  
 
 
 <!---
