@@ -78,7 +78,7 @@ E-mail: linweit [at] hku.hk
 35.	Chau  CKL,  **Tian LW**, and Lee SS. The impacts  of school resumption  on the incidence of pandemic (H1N1) 2009 in school students. Influenza and Other Respiratory Viruses 2011;5:264–265.  
 36.	Lin H, Ng S, Chan  S, Chan  WM, Lee KCK, Ho SC, and  **Tian LW\ \***. Institutional risk factors  for norovirus  outbreaks  in Hong Kong elderly  homes: a retrospective cohort study.  BMC Public Health 2011;11:297. [DOI: 10.1186/1471-2458-11-297](http://dx.doi.org/10.1186/1471-2458-11-297)  
 37.	**Tian LW\ \***, Hossain SR, Lin H, Ho KF, Lee SC, and Yu ITS. Increasing trend of primary NO(2) exhaust  emission fraction in Hong Kong. Environmental Geochemistry and Health 2011;33:623–630. [DOI: 10.1007/s10653-011-9375-5](http://dx.doi.org/10.1007/s10653-011-9375-5)  
-38.	Wang S, Zhang M, Zeng Z,  **Tian LW**, Wu K, Chu J, Fan  D, Hu P, Sung JJY,  and Yu J. IkappaBalpha polymorphisms were associated with increased risk of gastric cancer in a southern  Chinese population:  a case-control study. Life Sciences 2011;88:792–7. [DOI: 10.1016/j.lfs.2011.02.016] (http://dx.doi.org/10.1016/j.lfs.2011.02.016)  
+38.	Wang S, Zhang M, Zeng Z, **Tian LW**, Wu K, Chu J, Fan D, Hu P, Sung JJY, and Yu J. IkappaBalpha polymorphisms were associated with increased risk of gastric cancer in a southern  Chinese population: a case-control study. Life Sciences 2011;88:792–7. [DOI: 10.1016/j.lfs.2011.02.016](http://dx.doi.org/10.1016/j.lfs.2011.02.016)  
 39.	Wu S,  **Tian LW**, and  Xu F. Induced  abortion  and  relevant  factors  among women seeking  abortion   in  Nanjing,   China.   Gynecologic  and   Obstetric   Investigation 2011;71:87–92. [DOI: 10.1159/000320739](http://dx.doi.org/10.1159/000320739)  
 40.   Xu L, Zeng Z, Chen BIN, Yu J,  **Tian LW**, Wang Y, Chen M, Sung JJY,  and Hu P. Association  between  the  TGFB1  -509C/T  and  TGFBR2  -875A/G  polymorphisms and gastric cancer: a case-control study. Oncology Letters  2011;2:371–377. [DOI: 10.3892/ol.2011.249](http://dx.doi.org/10.3892/ol.2011.249)  
 41.	Yu J, Jia  Y, Cheung KF, Zeng Z,  **Tian LW**, Wang S, Hu P, and Sung JJY.  Polymorphisms in interleukin-6-6331 influences the susceptibility  of a Chinese population to gastric  cancer.  Cancer  Investigation 2011;29:564–72. [DOI: 10.3109/07357907.2011.605411](http://dx.doi.org/10.3109/07357907.2011.605411)  
@@ -126,8 +126,8 @@ E-mail: linweit [at] hku.hk
 67. Pun VC, Yu ITS, Qiu H, Ho KF, Sun ZW, Louie PKK, Wong TW, and **Tian LW\ \***. Short-Term Associations of Cause-Specific Emergency Hospitalizations and Particulate Matter Chemical Components in Hong Kong. American Journal of Epidemiology. 2014;179(9):1086-1095 [DOI: 10.1093/aje/kwu026](http://dx.doi.org/10.1093/aje/kwu026)  
 68. Pun VC, Yu ITS, Ho KF, Qiu H, Sun ZW, and **Tian LW\ \***. Differential Effects of Ambient Source-Specific Particulate Matter on Ischemic Heart Disease Emergency Hospitalizations. Environmental Health Perspectives. 2014;122(4):391-6 [DOI: 10.1289/ehp.1307213](http://dx.doi.org/10.1289/ehp.1307213)   
 69. Yu YB, Duan JC, Yu Y, Li Y, Liu XM, Zhou XQ, Ho KF, **Tian LW \***, and Sun ZW \*. Silica nanoparticles induce autophagy and autophagic cell death in HepG2 cells triggered by reactive oxygen species. Journal of Hazardous Materials. 2014;270:176–186. [10.1016/j.jhazmat.2014.01.028](http://dx.doi.org/doi:10.1016/j.jhazmat.2014.01.028)  
-70. Ho KF \*, Ho SS, Dai WT, Cao JJ, Huang RJ, **Tian LW** and Deng WJ. Seasonal variations of monocarbonyl and dicarbonyl in urban and sub-urban sites of Xi'an, China. Environ Monit Assess. 2014;186(5):2835-49. [DOI: 10.1007/s10661-013-3584-6](http://dx.doi.org/10.1007/s10661-013-3584-6)
-71. Zhao L, Zhang LH \*, Zhang XL, Li ZZ, **Tian LW** and Wang YX \*. An Analysis of 1256 Cases of Sporadic Ruptured Cerebral Aneurysm in a Single Chinese Institution. PLoS One. 2014; 9(1): e85668. [DOI: 10.1371/journal.pone.0085668](http://dx.doi.org/10.1371/journal.pone.0085668) 
+70. Ho KF, Ho SS, Dai WT, Cao JJ, Huang RJ, **Tian LW** and Deng WJ. Seasonal variations of monocarbonyl and dicarbonyl in urban and sub-urban sites of Xi'an, China. Environ Monit Assess. 2014;186(5):2835-49. [DOI: 10.1007/s10661-013-3584-6](http://dx.doi.org/10.1007/s10661-013-3584-6)
+71. Zhao L, Zhang LH , Zhang XL, Li ZZ, **Tian LW** and Wang YX. An Analysis of 1256 Cases of Sporadic Ruptured Cerebral Aneurysm in a Single Chinese Institution. PLoS One. 2014; 9(1): e85668. [DOI: 10.1371/journal.pone.0085668](http://dx.doi.org/10.1371/journal.pone.0085668) 
 72. Kim C, Chapman RS, Hu W, He XZ, Hosgood HD, Liu LZ, Lai H, Chen W, Silverman DT, Vermeulen R, **Tian LW**, Bassig B, Shen M, Zhang YW, Ma SG, Rothman N, Lan Q. Smoky coal, tobacco smoking, and lung cancer risk in Xuanwei, China. Lung Cancer. 2014;84(1):31-5. [DOI: 10.1016/j.lungcan.2014.01.004](http://dx.doi.org/10.1016/j.lungcan.2014.01.004) 
 73. Zhou YC, **Tian LW**, Wang XC, Ye LH, Zhao GQ, Yu M, Li GJ, Lei YJ, Huang YC. MicroRNA-195 inhibits non-small cell lung cancer cell proliferation, migration and invasion by targeting MYB. Cancer Letters. 2014;347(1):65-74. [DOI: 10.1016/j.canlet.2014.01.019](http://dx.doi.org/10.1016/j.canlet.2014.01.019)  
 74. Lu L, Wang M, Xia WJ, **Tian LW**, Xu R, Li CH, Wang JX, Rong X, Xiong HP, Huang K, Huang JT, Nakano T, Bennett P, Zhang Y, Zhang LQ, and Fu YS. The migration patterns of HCV in China were characterized for five major subtypes based on 411 volunteer blood donors sampled in 17 provinces/municipalities. Journal of Virology. 2014;88:7120-9 [DOI: 10.1128/JVI.00414-14](http://dx.doi.org/10.1128/JVI.00414-14)   
@@ -144,6 +144,8 @@ E-mail: linweit [at] hku.hk
 81. Qiu H, Yu ITS, Tse LA, Chan EYY, Wong TW, **Tian LW \***. Greater temperature variation within a day associated with increased emergency hospital admissions for asthma. Science of the Total Environment. 2015;505:508-513 [DOI: 10.1016/j.scitotenv.2014.10.003](http://dx.doi.org/10.1016/j.scitotenv.2014.10.003) 
 82. Ho KF, Ho SS, Huang RJ, Dai WT, Cao JJ, **Tian LW**, Deng WJ. Spatiotemporal distribution of carbonyl compounds in China. Environmental Pollution. 2014-11-26. [DOI: 10.1016/j.envpol.2014.11.014](http://dx.doi.org/10.1016/j.envpol.2014.11.014)  
 83. Lin HL, Ning BF, Li JH,  Ho SC, Huss A, Vermeulen  R, and  **Tian LW\ \***. Lung Cancer Mortality  Among Women in Xuan Wei, China: A Comparison  of Spatial  Clustering Detection  Methods.  Asia-Pacific  Journal  of Public  Health  2015. [DOI: 10.1177/1010539512444778](http://dx.doi.org/10.1177/1010539512444778) 
+84. Pun VC, **Tian LW\ \***, Yu ITS, Kioumourtzoglou MA, Qiu H. Differential distributed lag patterns of source-specific particulate matter on respiratory emergency hospitalizations. Environmental Science & Technology. 2015-02-04. [DOI: 10.1021/es505030u](http://dx.doi.org/10.1021/es505030u) 
+
 
 
 
@@ -151,6 +153,9 @@ E-mail: linweit [at] hku.hk
 
 setwd("/repo/Research")
 system("pandoc -s --self-contained --css=stylesLinwei.css index.md -o index.html")
+
+system("pandoc index.md -o index.docx")
+system("pandoc index.docx -o temp2.md")
 
 
 system("pandoc -s --self-contained --css=stylesLinwei.css dailyGeek.md -o dailyGeek.html")
