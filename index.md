@@ -36,6 +36,7 @@ E-mail: linweit [at] hku.hk
 8. **Tian LW\ \***, Bi Y, Ho SC, Liu W, Liang S, Goggins WB, Chan  EYY, Zhou S, and Sung  JJY.  One-year  delayed  effect of fog on  malaria  transmission:  a  time-series analysis in the rain forest area of Mengla County, south-west China. Malaria Journal 2008;7:110. [DOI: 10.1186/1475-2875-7-110](http://dx.doi.org/10.1186/1475-2875-7-110)  
 9. **Tian LW\ \***, Dai S, Wang J, Huang Y, Ho SC, Zhou Y, Lucas D, and Koshland CP. Nanoquartz  in Late Permian  C1 coal and the high incidence of female lung cancer in the  Pearl  River  Origin  area:  a retrospective  cohort  study.  BMC Public  Health 2008;8:398. [DOI: 10.1186/1471-2458-8-398](http://dx.doi.org/10.1186/1471-2458-8-398)  
 10. Dai S,  **Tian LW**, Chou  C, Zhou Y, Zhang  M, Zhao L, Wang  J,  Yang  Z, Cao H, and Ren D. Mineralogical and compositional  characteristics of Late Permian  coals from an area of high lung cancer rate in Xuan Wei, Yunnan,  China: Occurrence and origin of quartz  and chamosite.  International Journal  of Coal Geology 2008;76:318–327. [DOI: 10.1016/j.coal.2008.09.001](http://dx.doi.org/10.1016/j.coal.2008.09.001)  
+11. Lan Q, He X, Shen M, **Tian LW**, Liu LZ, Lai H, Chen W, Berndt SI, Hosgood HD, Lee KM, Zheng T, Blair A, and Chapman RS. Variation in lung cancer risk by smoky coal subtype in Xuanwei, China. International Journal of Cancer 2008;123:2164–9. [DOI: 10.1002/ijc.23748](http://dx.doi.org/10.1002/ijc.23748)  
 
 ### Year 2009
 
