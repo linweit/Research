@@ -143,7 +143,7 @@ E-mail: linweit [at] hku.hk
 ### Year 2015 
  
 81. Qiu H, Yu ITS, Tse LA, Chan EYY, Wong TW, **Tian LW \***. Greater temperature variation within a day associated with increased emergency hospital admissions for asthma. Science of the Total Environment. 2015;505:508-513 [DOI: 10.1016/j.scitotenv.2014.10.003](http://dx.doi.org/10.1016/j.scitotenv.2014.10.003) 
-82. Ho KF, Ho SS, Huang RJ, Dai WT, Cao JJ, **Tian LW**, Deng WJ. Spatiotemporal distribution of carbonyl compounds in China. Environmental Pollution. 2014-11-26. [DOI: 10.1016/j.envpol.2014.11.014](http://dx.doi.org/10.1016/j.envpol.2014.11.014)  
+82. Ho KF, Ho SS, Huang RJ, Dai WT, Cao JJ, **Tian LW**, Deng WJ. Spatiotemporal distribution of carbonyl compounds in China. Environmental Pollution. 2015;197:316-324 [DOI: 10.1016/j.envpol.2014.11.014](http://dx.doi.org/10.1016/j.envpol.2014.11.014)  
 83. Lin HL, Ning BF, Li JH,  Ho SC, Huss A, Vermeulen  R, and  **Tian LW\ \***. Lung Cancer Mortality  Among Women in Xuan Wei, China: A Comparison  of Spatial  Clustering Detection  Methods.  Asia-Pacific  Journal  of Public  Health  2015. [DOI: 10.1177/1010539512444778](http://dx.doi.org/10.1177/1010539512444778) 
 84. Pun VC, **Tian LW\ \***, Yu ITS, Kioumourtzoglou MA, Qiu H. Differential distributed lag patterns of source-specific particulate matter on respiratory emergency hospitalizations. Environmental Science & Technology. 2015-02-04. [DOI: 10.1021/es505030u](http://dx.doi.org/10.1021/es505030u) 
 
