@@ -146,7 +146,7 @@ E-mail: linweit [at] hku.hk
 82. Ho KF, Ho SS, Huang RJ, Dai WT, Cao JJ, **Tian LW**, Deng WJ. Spatiotemporal distribution of carbonyl compounds in China. Environmental Pollution. 2015;197:316-324 [DOI: 10.1016/j.envpol.2014.11.014](http://dx.doi.org/10.1016/j.envpol.2014.11.014)  
 83. Lin HL, Ning BF, Li JH,  Ho SC, Huss A, Vermeulen  R, and  **Tian LW\ \***. Lung Cancer Mortality  Among Women in Xuan Wei, China: A Comparison  of Spatial  Clustering Detection  Methods.  Asia-Pacific  Journal  of Public  Health  2015. [DOI: 10.1177/1010539512444778](http://dx.doi.org/10.1177/1010539512444778) 
 84. Pun VC, **Tian LW\ \***, Yu ITS, Kioumourtzoglou MA, Qiu H. Differential distributed lag patterns of source-specific particulate matter on respiratory emergency hospitalizations. Environmental Science & Technology. 2015-02-04. [DOI: 10.1021/es505030u](http://dx.doi.org/10.1021/es505030u) 
-
+85. Qiu H, **Tian LW\ \***, Ho KF, Pun VC, Wang XR, Yu ITS. Air pollution and mortality: Effect modification by personal characteristics and specific cause of death in a case-only study. Environmental Pollution. 2015;199:192-197. [DOI: 10.1016/j.envpol.2015.02.002](http://dx.doi.org/10.1016/j.envpol.2015.02.002) 
 
 
 
