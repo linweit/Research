@@ -149,6 +149,8 @@ E-mail: linweit [at] hku.hk
 85. Qiu H, **Tian LW\ \***, Ho KF, Pun VC, Wang XR, Yu ITS. Air pollution and mortality: Effect modification by personal characteristics and specific cause of death in a case-only study. Environmental Pollution. 2015;199:192-197. [DOI: 10.1016/j.envpol.2015.02.002](http://dx.doi.org/10.1016/j.envpol.2015.02.002) 
 86. Ho KF, Ho SSH, Huang RJ, Liu SX, Cao JJ, Zhang T, Chuang HC, Chan CS, **Tian LW**. Characteristics of water-soluble organic nitrogen in fine particulate matter in the continental area of China. Atmospheric Environment. 2015;106:252–61. [DOI: 10.1016/j.atmosenv.2015.02.010](http://dx.doi.org/10.1016/j.atmosenv.2015.02.010) 
 87. Ho KF, Huang RJ, Kawamura K, Tachibana E, Lee SC, Ho SSH, Zhu T, **Tian LW**. Dicarboxylic acids, ketocarboxylic acids, α-dicarbonyls, fatty acids and benzoic acid in PM2.5 aerosol collected during CAREBeijing-2007: an effect of traffic restriction on air quality. Atmospheric Chemistry and Physics. Accepted on 2015-03-02. 
+88. Yang FH, Kaul D, Wong KC, Westerdahl D, Sun L, Ho KF, **Tian LW**, Brimblecombe P, Ning Z. Heterogeneity of passenger exposure to air pollutants in public transport microenvironments.  Atmospheric Environment. 2015-03-06. [DOI: 10.1016/j.atmosenv.2015.03.009](http://dx.doi.org/10.1016/j.atmosenv.2015.03.009) 
+
 
 
 <!---
