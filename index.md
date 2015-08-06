@@ -152,6 +152,8 @@ E-mail: linweit [at] hku.hk
 88. Yang FH, Kaul D, Wong KC, Westerdahl D, Sun L, Ho KF, **Tian LW**, Brimblecombe P, Ning Z. Heterogeneity of passenger exposure to air pollutants in public transport microenvironments.  Atmospheric Environment. 2015;109:42-51. [DOI: 10.1016/j.atmosenv.2015.03.009](http://dx.doi.org/10.1016/j.atmosenv.2015.03.009) 
 89. Lee KY, Cao JJ, Lee CH, Hsiao TC, Yeh CT, Huynh TT, Han YM, Li XD, Chuang KJ, **Tian LW**, Ho KF, Chuang HC. Inhibition of the WNT/$\beta$-catenin pathway by haze fine particulate matter: Roles of metals and polycyclic aromatic hydrocarbons. Atmospheric Environment. 2015;109:118-129. [DOI: 10.1016/j.atmosenv.2015.03.017](http://dx.doi.org/10.1016/j.atmosenv.2015.03.017) 
 90. Chuang HC, Ho KF, Cao JJ, Chuang KJ, Ho SSH, Feng PH, **Tian LW**, Lee CH, Han YM, Lee CN, Cheng TJ. Effects of non-protein-type amino acids of fine particulate matter on E-cadherin and inflammatory responses in mice. Toxicology Letters. 2015;237(3):174–180. [DOI: 10.1016/j.toxlet.2015.06.013](http://dx.doi.org/10.1016/j.toxlet.2015.06.013)  
+91. **Tian LW***, Qiu H, Pun VC, Ho KF, Chan CS, Yu ITS. Carbon monoxide and stroke: a time series study of ambient air pollution and emergency hospitalizations. International Journal of Cardiology. 2015-08-01. [DOI: 10.1016/j.ijcard.2015.07.099](http://dx.doi.org/10.1016/j.ijcard.2015.07.099)  
+
 
 
 <!---
