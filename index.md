@@ -153,6 +153,13 @@ E-mail: linweit [at] hku.hk
 89. Lee KY, Cao JJ, Lee CH, Hsiao TC, Yeh CT, Huynh TT, Han YM, Li XD, Chuang KJ, **Tian LW**, Ho KF, Chuang HC. Inhibition of the WNT/$\beta$-catenin pathway by haze fine particulate matter: Roles of metals and polycyclic aromatic hydrocarbons. Atmospheric Environment. 2015;109:118-129. [DOI: 10.1016/j.atmosenv.2015.03.017](http://dx.doi.org/10.1016/j.atmosenv.2015.03.017) 
 90. Chuang HC, Ho KF, Cao JJ, Chuang KJ, Ho SSH, Feng PH, **Tian LW**, Lee CH, Han YM, Lee CN, Cheng TJ. Effects of non-protein-type amino acids of fine particulate matter on E-cadherin and inflammatory responses in mice. Toxicology Letters. 2015;237(3):174–180. [DOI: 10.1016/j.toxlet.2015.06.013](http://dx.doi.org/10.1016/j.toxlet.2015.06.013)  
 91. **Tian LW\ \***, Qiu H, Pun VC, Ho KF, Chan CS, Yu ITS. Carbon monoxide and stroke: a time series study of ambient air pollution and emergency hospitalizations. International Journal of Cardiology. 2015-08-01. [DOI: 10.1016/j.ijcard.2015.07.099](http://dx.doi.org/10.1016/j.ijcard.2015.07.099)  
+92. **Tian LW\ \***, Wong WY, Ho SC, Ng S, Chan WM. Institutional risk factors for outbreaks of acute gastroenteritis in homes for the elderly : a retrospective cohort analysis. Hong Kong Medical Journal. 2015;21(Suppl 4):20–1. [PDF](http://www.hkmj.org/abstracts/v21n3s4/20.htm)  
+93. Qiu H, **Tian LW\ \***, Ho KF, Ignatius TS, Thach TQ, Wong CM. Who is more Vulnerable to Death from Extremely Cold Temperatures? 
+A Case-Only Approach in Hong Kong with a Temperate Climate. International Journal of Biometeorology. 2015-09-09. [DOI: 10.1007/s00484-015-1065-z](http://dx.doi.org/10.1007/s00484-015-1065-z) 
+94. Seow WJ, Downward GS, Hu W, Rothman N, Reiss B, Xu J, Bassig BA, Li JH, He J, Hosgood HD, Wu GP, Chapman RS, **Tian LW**, Wei FS, Caporaso NE, Vermeulen R, Lan Q. Indoor concentrations of nitrogen dioxide and sulfur dioxide from burning solid fuels for cooking and heating in Yunnan Province, China. Indoor Air. 2015-08-31. [DOI: 10.1111/ina.12251](http://dx.doi.org/10.1111/ina.12251) 
+
+
+
 
 
 
