@@ -154,14 +154,18 @@ E-mail: linweit [at] hku.hk
 90. Chuang HC, Ho KF, Cao JJ, Chuang KJ, Ho SSH, Feng PH, **Tian LW**, Lee CH, Han YM, Lee CN, Cheng TJ. Effects of non-protein-type amino acids of fine particulate matter on E-cadherin and inflammatory responses in mice. Toxicology Letters. 2015;237(3):174–180. [DOI: 10.1016/j.toxlet.2015.06.013](http://dx.doi.org/10.1016/j.toxlet.2015.06.013)  
 91. **Tian LW\ \***, Qiu H, Pun VC, Ho KF, Chan CS, Yu ITS. Carbon monoxide and stroke: a time series study of ambient air pollution and emergency hospitalizations. International Journal of Cardiology. 2015;201:4-9. [DOI: 10.1016/j.ijcard.2015.07.099](http://dx.doi.org/10.1016/j.ijcard.2015.07.099)  
 92. **Tian LW\ \***, Wong WY, Ho SC, Ng S, Chan WM. Institutional risk factors for outbreaks of acute gastroenteritis in homes for the elderly: a retrospective cohort analysis. Hong Kong Medical Journal. 2015;21(Suppl 4):20-1. [PDF](http://www.hkmj.org/abstracts/v21n3s4/20.htm)  
+
+
+### Year 2016 
+
 93. Qiu H, **Tian LW\ \***, Ho KF, Ignatius TS, Thach TQ, Wong CM. Who is more Vulnerable to Death from Extremely Cold Temperatures? 
 A Case-Only Approach in Hong Kong with a Temperate Climate. International Journal of Biometeorology. 2015-09-09. [DOI: 10.1007/s00484-015-1065-z](http://dx.doi.org/10.1007/s00484-015-1065-z) 
 94. Seow WJ, Downward GS, Hu W, Rothman N, Reiss B, Xu J, Bassig BA, Li JH, He J, Hosgood HD, Wu GP, Chapman RS, **Tian LW**, Wei FS, Caporaso NE, Vermeulen R, Lan Q. Indoor concentrations of nitrogen dioxide and sulfur dioxide from burning solid fuels for cooking and heating in Yunnan Province, China. Indoor Air. 2015-08-31. [DOI: 10.1111/ina.12251](http://dx.doi.org/10.1111/ina.12251)  
 95. Lin HL, Tao J, Du YD, Liu T, Qian ZM, **Tian LW**, Di Q, Shannon R, Guo LC, Zen WL, Xiao JP, Li X, He ZH, Xu YJ, Ma WJ. Particle size and chemical constituents of ambient particulate pollution associated with cardiovascular mortality in Guangzhou, China. Environmental Pollution 2015; 10: 1–9. [DOI: 10.1016/j.envpol.2015.10.056](http://dx.doi.org/10.1016/j.envpol.2015.10.056)  
-96. Lin HL, Tao J, Du YD, Liu T, Qian ZM, **Tian LW**, Di Q, Zen WL, Xiao JP, Guo LC, Li X, Xu YJ, Ma WJ. Differentiating the effects of characteristics of PM pollution on mortality from ischemic and hemorrhagic strokes, International Journal of Hygiene and Environmental Health. 2015. [DOI: 10.1016/j.ijheh.2015.11.002](http://dx.doi.org/10.1016/j.ijheh.2015.11.002)   
-
-
-
+96. Lin HL, Tao J, Du YD, Liu T, Qian ZM, **Tian LW**, Di Q, Zen WL, Xiao JP, Guo LC, Li X, Xu YJ, Ma WJ. Differentiating the effects of characteristics of PM pollution on mortality from ischemic and hemorrhagic strokes, International Journal of Hygiene and Environmental Health. 2015. [DOI: 10.1016/j.ijheh.2015.11.002](http://dx.doi.org/10.1016/j.ijheh.2015.11.002) 
+97. Qiu H, **Tian LW\ \***, Sun SZ, Tang R, Chan KP. Pneumonia Hospitalization Risk in the Elderly Attributable to Cold and Hot Temperatures in Hong Kong. American Journal of Epidemiology. 2006-1-27. In press. 
+98. Sun SZ, **Tian LW**, Qiu H, Chan KP, Tsang H, Tang R, Lee SY, Thach TQ, Wong CM. The influence of pre-existing health conditions on short-term mortality risks of temperature: Evidence from a prospective Chinese elderly cohort in Hong Kong. Environmental Research. 2016;148:7–14. [DOI: 10.1016/j.envres.2016.03.012](http://dx.doi.org/10.1016/j.envres.2016.03.012)
+99. **Tian LW\ \***, Qiu H, Sun SZ, Lin HL. Emergency Cardiovascular Hospitalization Risk Attributable to Cold Temperatures in Hong Kong. Circulation Cardiovascular Qualty and Outcomes. 2016;9:135–142. [DOI: 10.1161/CIRCOUTCOMES.115.002410](http://dx.doi.org/10.1161/CIRCOUTCOMES.115.002410)
 
 
 
