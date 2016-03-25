@@ -165,7 +165,7 @@ A Case-Only Approach in Hong Kong with a Temperate Climate. International Journa
 96. Lin HL, Tao J, Du YD, Liu T, Qian ZM, **Tian LW**, Di Q, Zen WL, Xiao JP, Guo LC, Li X, Xu YJ, Ma WJ. Differentiating the effects of characteristics of PM pollution on mortality from ischemic and hemorrhagic strokes, International Journal of Hygiene and Environmental Health. 2015. [DOI: 10.1016/j.ijheh.2015.11.002](http://dx.doi.org/10.1016/j.ijheh.2015.11.002) 
 97. Qiu H, **Tian LW\ \***, Sun SZ, Tang R, Chan KP. Pneumonia Hospitalization Risk in the Elderly Attributable to Cold and Hot Temperatures in Hong Kong. American Journal of Epidemiology. 2016-1-27. In press. 
 98. Sun SZ, **Tian LW**, Qiu H, Chan KP, Tsang H, Tang R, Lee SY, Thach TQ, Wong CM. The influence of pre-existing health conditions on short-term mortality risks of temperature: Evidence from a prospective Chinese elderly cohort in Hong Kong. Environmental Research. 2016;148:7–14. [DOI: 10.1016/j.envres.2016.03.012](http://dx.doi.org/10.1016/j.envres.2016.03.012)
-99. **Tian LW\ \***, Qiu H, Sun SZ, Lin HL. Emergency Cardiovascular Hospitalization Risk Attributable to Cold Temperatures in Hong Kong. Circulation Cardiovascular Qualty and Outcomes. 2016;9:135–142. [DOI: 10.1161/CIRCOUTCOMES.115.002410](http://dx.doi.org/10.1161/CIRCOUTCOMES.115.002410)
+99. **Tian LW\ \***, Qiu H, Sun SZ, Lin HL. Emergency Cardiovascular Hospitalization Risk Attributable to Cold Temperatures in Hong Kong. Circulation Cardiovascular Quality and Outcomes. 2016;9:135–142. [DOI: 10.1161/CIRCOUTCOMES.115.002410](http://dx.doi.org/10.1161/CIRCOUTCOMES.115.002410)
 
 
 
