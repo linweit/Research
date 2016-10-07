@@ -154,27 +154,32 @@ E-mail: linweit [at] hku.hk
 90. Chuang HC, Ho KF, Cao JJ, Chuang KJ, Ho SSH, Feng PH, **Tian LW**, Lee CH, Han YM, Lee CN, Cheng TJ. Effects of non-protein-type amino acids of fine particulate matter on E-cadherin and inflammatory responses in mice. Toxicology Letters. 2015;237(3):174–180. [DOI: 10.1016/j.toxlet.2015.06.013](http://dx.doi.org/10.1016/j.toxlet.2015.06.013)  
 91. **Tian LW\ \***, Qiu H, Pun VC, Ho KF, Chan CS, Yu ITS. Carbon monoxide and stroke: a time series study of ambient air pollution and emergency hospitalizations. International Journal of Cardiology. 2015;201:4-9. [DOI: 10.1016/j.ijcard.2015.07.099](http://dx.doi.org/10.1016/j.ijcard.2015.07.099)  
 92. **Tian LW\ \***, Wong WY, Ho SC, Ng S, Chan WM. Institutional risk factors for outbreaks of acute gastroenteritis in homes for the elderly: a retrospective cohort analysis. Hong Kong Medical Journal. 2015;21(Suppl 4):20-1. [PDF](http://www.hkmj.org/abstracts/v21n3s4/20.htm)  
+93. Lin HL, Ning BF, Li JH, Zhao GQ, Huang YC, ***Tian LW\ \***. Temporal trend of mortality from major cancers in Xuanwei, China. Frontiers of Medicine. 2015;9:487-495 [DOI:10.1007/s11684-015-0413-z](http://dx.doi.org/10.1007/s11684-015-0413-z)
 
 
 ### Year 2016 
 
-93. Qiu H, **Tian LW\ \***, Ho KF, Ignatius TS, Thach TQ, Wong CM. Who is more Vulnerable to Death from Extremely Cold Temperatures? 
+94. Qiu H, **Tian LW\ \***, Ho KF, Ignatius TS, Thach TQ, Wong CM. Who is more Vulnerable to Death from Extremely Cold Temperatures? 
 A Case-Only Approach in Hong Kong with a Temperate Climate. *International Journal of Biometeorology.* 2015-09-09. [DOI: 10.1007/s00484-015-1065-z](http://dx.doi.org/10.1007/s00484-015-1065-z) 
-94. Seow WJ, Downward GS, Hu W, Rothman N, Reiss B, Xu J, Bassig BA, Li JH, He J, Hosgood HD, Wu GP, Chapman RS, **Tian LW**, Wei FS, Caporaso NE, Vermeulen R, Lan Q. Indoor concentrations of nitrogen dioxide and sulfur dioxide from burning solid fuels for cooking and heating in Yunnan Province, China. *Indoor Air.* 2015-08-31. [DOI: 10.1111/ina.12251](http://dx.doi.org/10.1111/ina.12251)  
-95. Lin HL, Tao J, Du YD, Liu T, Qian ZM, **Tian LW**, Di Q, Shannon R, Guo LC, Zen WL, Xiao JP, Li X, He ZH, Xu YJ, Ma WJ. Particle size and chemical constituents of ambient particulate pollution associated with cardiovascular mortality in Guangzhou, China. *Environmental Pollution* 2015; 10: 1–9. [DOI: 10.1016/j.envpol.2015.10.056](http://dx.doi.org/10.1016/j.envpol.2015.10.056)  
-96. Lin HL, Tao J, Du YD, Liu T, Qian ZM, **Tian LW**, Di Q, Zen WL, Xiao JP, Guo LC, Li X, Xu YJ, Ma WJ. Differentiating the effects of characteristics of PM pollution on mortality from ischemic and hemorrhagic strokes, *International Journal of Hygiene and Environmental Health.* 2015. [DOI: 10.1016/j.ijheh.2015.11.002](http://dx.doi.org/10.1016/j.ijheh.2015.11.002) 
-97. Qiu H, **Tian LW\ \***, Sun SZ, Tang R, Chan KP. Pneumonia Hospitalization Risk in the Elderly Attributable to Cold and Hot Temperatures in Hong Kong. *American Journal of Epidemiology.* 2016-1-27. In press. 
-98. Sun SZ, **Tian LW**, Qiu H, Chan KP, Tsang H, Tang R, Lee SY, Thach TQ, Wong CM. The influence of pre-existing health conditions on short-term mortality risks of temperature: Evidence from a prospective Chinese elderly cohort in Hong Kong. *Environmental Research.* 2016;148:7–14. [DOI: 10.1016/j.envres.2016.03.012](http://dx.doi.org/10.1016/j.envres.2016.03.012)
-99. **Tian LW\ \***, Qiu H, Sun SZ, Lin HL. Emergency Cardiovascular Hospitalization Risk Attributable to Cold Temperatures in Hong Kong. *Circulation Cardiovascular Quality and Outcomes.* 2016;9:135–142. [DOI: 10.1161/CIRCOUTCOMES.115.002410](http://dx.doi.org/10.1161/CIRCOUTCOMES.115.002410)
-100. Guo YM, Gasparrini A, Armstrong BG, Tawatsupa B, Tobias A, Lavigne E, Coelho MS, Pan X, Kim H, Hashizume M, Honda Y, Guo YL, Wu CF, Zanobetti A, Schwartz JD, Bell ML, Overcenco A, Punnasiri K, Li S, **Tian LW**, Saldiva P, Williams G, Tong S. Temperature Variability and Mortality: A Multi-Country Study. *Environmental Health Perspectives.* 2016 Jun 3. [DOI: 10.1289/EHP149](http://dx.doi.org/10.1289/EHP149)  
-101. Lin HL, Ma WJ, Qiu H, Vaughn MG, Nelson EJ, Qian ZM, **Tian LW\ \***. Is standard deviation of daily PM2.5 concentration associated with respiratory mortality? *Environmental Pollution.* 2016 Jun 1;216:208-214. [DOI: 10.1016/j.envpol.2016.05.068](http://dx.doi.org/10.1016/j.envpol.2016.05.068)  
+95. Seow WJ, Downward GS, Hu W, Rothman N, Reiss B, Xu J, Bassig BA, Li JH, He J, Hosgood HD, Wu GP, Chapman RS, **Tian LW**, Wei FS, Caporaso NE, Vermeulen R, Lan Q. Indoor concentrations of nitrogen dioxide and sulfur dioxide from burning solid fuels for cooking and heating in Yunnan Province, China. *Indoor Air.* 2015-08-31. [DOI: 10.1111/ina.12251](http://dx.doi.org/10.1111/ina.12251)  
+96. Lin HL, Tao J, Du YD, Liu T, Qian ZM, **Tian LW**, Di Q, Shannon R, Guo LC, Zen WL, Xiao JP, Li X, He ZH, Xu YJ, Ma WJ. Particle size and chemical constituents of ambient particulate pollution associated with cardiovascular mortality in Guangzhou, China. *Environmental Pollution* 2015; 10: 1–9. [DOI: 10.1016/j.envpol.2015.10.056](http://dx.doi.org/10.1016/j.envpol.2015.10.056)  
+97. Lin HL, Tao J, Du YD, Liu T, Qian ZM, **Tian LW**, Di Q, Zen WL, Xiao JP, Guo LC, Li X, Xu YJ, Ma WJ. Differentiating the effects of characteristics of PM pollution on mortality from ischemic and hemorrhagic strokes, *International Journal of Hygiene and Environmental Health.* 2015. [DOI: 10.1016/j.ijheh.2015.11.002](http://dx.doi.org/10.1016/j.ijheh.2015.11.002) 
+98. Qiu H, **Tian LW\ \***, Sun SZ, Tang R, Chan KP. Pneumonia Hospitalization Risk in the Elderly Attributable to Cold and Hot Temperatures in Hong Kong. *American Journal of Epidemiology.* 2016-1-27. In press. 
+99. Sun SZ, **Tian LW**, Qiu H, Chan KP, Tsang H, Tang R, Lee SY, Thach TQ, Wong CM. The influence of pre-existing health conditions on short-term mortality risks of temperature: Evidence from a prospective Chinese elderly cohort in Hong Kong. *Environmental Research.* 2016;148:7–14. [DOI: 10.1016/j.envres.2016.03.012](http://dx.doi.org/10.1016/j.envres.2016.03.012)
+100. **Tian LW\ \***, Qiu H, Sun SZ, Lin HL. Emergency Cardiovascular Hospitalization Risk Attributable to Cold Temperatures in Hong Kong. *Circulation Cardiovascular Quality and Outcomes.* 2016;9:135–142. [DOI: 10.1161/CIRCOUTCOMES.115.002410](http://dx.doi.org/10.1161/CIRCOUTCOMES.115.002410)
+101. Guo YM, Gasparrini A, Armstrong BG, Tawatsupa B, Tobias A, Lavigne E, Coelho MS, Pan X, Kim H, Hashizume M, Honda Y, Guo YL, Wu CF, Zanobetti A, Schwartz JD, Bell ML, Overcenco A, Punnasiri K, Li S, **Tian LW**, Saldiva P, Williams G, Tong S. Temperature Variability and Mortality: A Multi-Country Study. *Environmental Health Perspectives.* 2016 Jun 3. [DOI: 10.1289/EHP149](http://dx.doi.org/10.1289/EHP149)  
+102. Lin HL, Ma WJ, Qiu H, Vaughn MG, Nelson EJ, Qian ZM, **Tian LW\ \***. Is standard deviation of daily PM2.5 concentration associated with respiratory mortality? *Environmental Pollution.* 2016 Jun 1;216:208-214. [DOI: 10.1016/j.envpol.2016.05.068](http://dx.doi.org/10.1016/j.envpol.2016.05.068)  
+103. Lin HL, Liu T, Fang F, Xiao JP, Zeng WL, Li X, Guo LC, **Tian LW**, Schootman M, Stamatakis KA, Qian ZM, Ma WJ. Mortality benefits of vigorous air quality improvement interventions during the periods of APEC Blue and Parade Blue in Beijing , China. *Environmental Pollution.* 2016-Oct-1, [DOI: 10.1016/j.envpol.2016.09.041](http://dx.doi.org/10.1016/j.envpol.2016.09.041)  
+104. Ho KF, Chang CC, **Tian LW**, Chan CS, Musa Bandowe BA, Lui KH, Lee KY, Chuang KJ, Liu CY, Ning Z, Chuang HC. Effects of polycyclic aromatic compounds in fi ne particulate matter generated from household coal combustion on response to EGFR mutations in vitro. *Environmental Pollution.* 2016;218:1262–9. [DOI: 10.1016/j.envpol.2016.08.084](http://dx.doi.org/10.1016/j.envpol.2016.08.084)  
+
+
 
 
 
 
 <!---
 
-setwd("/repo/Research")
+setwd("C:/dropbox/repo/Research")
 system("pandoc -s --self-contained --css=stylesLinwei.css index.md -o index.html")
 
 system("pandoc index.md -o index.docx")
