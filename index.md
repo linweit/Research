@@ -65,7 +65,7 @@ E-mail: linweit [at] hku.hk
 27.	Xia WJ,  Ye X,  **Tian LW**, Xu XZ, Chen  YK, Luo GP,  Bei CH, Deng J,  Santoso S,  and  Fu  YS.  Establishment  of platelet  donor  registry  improves  the  treatment of platelet  transfusion  refractoriness  in  Guangzhou  region  of China.  Transfusion Medicine 2010;20:269–74. [DOI: 10.1111/j.1365-3148.2010.00995.x](http://dx.doi.org/10.1111/j.1365-3148.2010.00995.x)  
 28.	Yu J,  Ma X, Cheung  KF,  Li X,  **Tian LW**, Wang  S, Wu  CW,  Wu  WKK,  He M, Wang  M, Ng SSM, and  Sung JJY.  Epigenetic  inactivation of T-box  transcription factor 5, a novel tumor  suppressor  gene, is associated  with colon cancer. Oncogene 2010;29:6464–74. [DOI: 10.1038/onc.2010.370](http://dx.doi.org/10.1038/onc.2010.370)  
 29.	Yu J, Zeng Z, Wang S,  **Tian LW**, Wu J, Xue L, Lee CW, Zhang M, Goggins WB, Chen M, Hu P, and Sung JJY.  IL-1B-511 polymorphism is associated with increased risk of certain subtypes of gastric cancer in Chinese: a case-control study. The American Journal  of Gastroenterology 2010;105:557–64. [DOI: 10.1038/ajg.2009.644](http://dx.doi.org/10.1038/ajg.2009.644)  
-30.	Zhu X, Wang J, Wang Q, Zhang Y, Chen L,  **Tian LW**, Shen H, Lin MCM, Wang M, Xie D, and Kung H. No association between the haplotypic  block in the 3’ UTR of GRP78 and risk of hepatocellular  carcinoma. Hepato-gastroenterology 2010;57:1191–5.   
+30.	Zhu X, Wang J, Wang Q, Zhang Y, Chen L,  **Tian LW**, Shen H, Lin MCM, Wang M, Xie D, and Kung H. No association between the haplotypic block in the 3’ UTR of GRP78 and risk of hepatocellular carcinoma. Hepato-gastroenterology 2010;57:1191–5.   
 
 
 
@@ -171,11 +171,8 @@ A Case-Only Approach in Hong Kong with a Temperate Climate. *International Journ
 102. Lin HL, Ma WJ, Qiu H, Vaughn MG, Nelson EJ, Qian ZM, **Tian LW\ \***. Is standard deviation of daily PM2.5 concentration associated with respiratory mortality? *Environmental Pollution.* 2016 Jun 1;216:208-214. [DOI: 10.1016/j.envpol.2016.05.068](http://dx.doi.org/10.1016/j.envpol.2016.05.068)  
 103. Ho KF, Chang CC, **Tian LW**, Chan CS, Musa Bandowe BA, Lui KH, Lee KY, Chuang KJ, Liu CY, Ning Z, Chuang HC. Effects of polycyclic aromatic compounds in fi ne particulate matter generated from household coal combustion on response to EGFR mutations in vitro. *Environmental Pollution.* 2016;218:1262–9. [DOI: 10.1016/j.envpol.2016.08.084](http://dx.doi.org/10.1016/j.envpol.2016.08.084)  
 104. Lin HL, Liu T, Fang F, Xiao JP, Zeng WL, Li X, Guo LC, **Tian LW**, Schootman M, Stamatakis KA, Qian ZM, Ma WJ. Mortality benefits of vigorous air quality improvement interventions during the periods of APEC Blue and Parade Blue in Beijing , China. *Environmental Pollution.* 2016-Oct-1, [DOI: 10.1016/j.envpol.2016.09.041](http://dx.doi.org/10.1016/j.envpol.2016.09.041)  
-
-
-
-
-
+105. Li JH, Sun SZ, Tang R, Qiu H, Huang QY, Mason TG, **Tian LW\ \***. Major Air Pollutants and Acute Risk of COPD: A Systematic Review and Meta-analysis. *International Journal of Chronic Obstructive Pulmonary Disease* 2016-10-25. In press.  
+106. Sun SZ, Qiu H, Ho KF,**Tian LW\ \***. Chemical components of respirable particulate matter associated with emergency hospital admissions for type 2 diabetes in Hong Kong. Environ Int. 2016;97:93–99. [DOI: 10.1016/j.envint.2016.10.022](http://dx.doi.org/10.1016/j.envint.2016.10.022)  
 
 <!---
 
