@@ -181,11 +181,8 @@ A Case-Only Approach in Hong Kong with a Temperate Climate. *International Journ
 107. Lui KH, Bandowe BAM, **Tian LW**, Chan CS, Cao JJ, Ning Z, Lee SC, Ho KF. Cancer risk from polycyclic aromatic compounds in fine particulate matter generated from household coal combustion in Xuanwei, China. *Chemosphere*. 2017;169:660–668. [DOI: 10.1016/j.chemosphere.2016.11.112](http://dx.doi.org/10.1016/j.chemosphere.2016.11.112)  
 108. Lee M, Brauer M, Wong P, Tang R, Tsui TH, Choi C, Cheng W, Lai PC, **Tian LW**, Thach TQ, Allen R, Barratt B. Land use regression modelling of air pollution in high density high rise cities: A case study in Hong Kong. *Sci Total Environ.* 2017;592:306–315. [DOI: 10.1016/j.scitotenv.2017.03.094](http://dx.doi.org/10.1016/j.scitotenv.2017.03.094) 
 109. Qiu H, Sun SZ, Tsang H, Wong CM, Lee RSY, Schooling CM, **Tian LW\ \***. 2017. Fine Particulate Matter Exposure and Incidence of Stroke: A Cohort Study in Hong Kong. *Neurology.* 88(18):1709-1717. [DOI: 10.1212/WNL.0000000000003903](http://dx.doi.org/10.1212/WNL.0000000000003903)  
-110. Lui KH, Bandowe BAM, **Tian LW**, Chan CS, Cao JJ, Ning Z, Lee SC, Ho KF\*. Cancer risk from polycyclic aromatic compounds in fine particulate matter generated from household coal combustion in Xuanwei, China. *Chemosphere.* 2017;169:660–8. [DOI: 10.1016/j.chemosphere.2016.11.112](http://dx.doi.org/10.1016/j.chemosphere.2016.11.112)  
+110. Lui KH, Chan CS, **Tian LW**, Ning BF, Zhou YP, Song XL, Li JW, Cao JJ, Lee SC, Ho KF\*. Elements in Fine Particulate Matter (PM2.5) from Indoor Air During Household Stoves Coal Combustion at Xuanwei, China. *Aerosol Sci Eng.*  2017. [DOI: 10.1007/s41810-017-0004-2](http://dx.doi.org/10.1007/s41810-017-0004-2)   
 111. **Tian LW**, Qiu H, Sun S, Tsang H, Chan KP, Leung WK\*. Association between emergency admission for peptic ulcer bleeding and air pollution: a case-crossover analysis in Hong Kong’s elderly population. *Lancet Planet Heal.* 2017;1:e74-81. [DOI: 10.1016/S2542-5196(17)30021-9](http://dx.doi.org/10.1016/S2542-5196(17)30021-9) 
-
-
-
 
 
 <!---
