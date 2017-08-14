@@ -1,3 +1,6 @@
+---
+output: word_document
+---
 % Linwei Tian: my research
 
 
@@ -160,19 +163,25 @@ E-mail: linweit [at] hku.hk
 ### Year 2016 
 
 94. Qiu H, **Tian LW\ \***, Ho KF, Ignatius TS, Thach TQ, Wong CM. Who is more Vulnerable to Death from Extremely Cold Temperatures? 
-A Case-Only Approach in Hong Kong with a Temperate Climate. *International Journal of Biometeorology.* 2015-09-09. [DOI: 10.1007/s00484-015-1065-z](http://dx.doi.org/10.1007/s00484-015-1065-z) 
-95. Seow WJ, Downward GS, Hu W, Rothman N, Reiss B, Xu J, Bassig BA, Li JH, He J, Hosgood HD, Wu GP, Chapman RS, **Tian LW**, Wei FS, Caporaso NE, Vermeulen R, Lan Q. Indoor concentrations of nitrogen dioxide and sulfur dioxide from burning solid fuels for cooking and heating in Yunnan Province, China. *Indoor Air.* 2015-08-31. [DOI: 10.1111/ina.12251](http://dx.doi.org/10.1111/ina.12251)  
-96. Lin HL, Tao J, Du YD, Liu T, Qian ZM, **Tian LW**, Di Q, Shannon R, Guo LC, Zen WL, Xiao JP, Li X, He ZH, Xu YJ, Ma WJ. Particle size and chemical constituents of ambient particulate pollution associated with cardiovascular mortality in Guangzhou, China. *Environmental Pollution* 2015; 10: 1–9. [DOI: 10.1016/j.envpol.2015.10.056](http://dx.doi.org/10.1016/j.envpol.2015.10.056)  
-97. Lin HL, Tao J, Du YD, Liu T, Qian ZM, **Tian LW**, Di Q, Zen WL, Xiao JP, Guo LC, Li X, Xu YJ, Ma WJ. Differentiating the effects of characteristics of PM pollution on mortality from ischemic and hemorrhagic strokes, *International Journal of Hygiene and Environmental Health.* 2015. [DOI: 10.1016/j.ijheh.2015.11.002](http://dx.doi.org/10.1016/j.ijheh.2015.11.002) 
-98. Qiu H, **Tian LW\ \***, Sun SZ, Tang R, Chan KP. Pneumonia Hospitalization Risk in the Elderly Attributable to Cold and Hot Temperatures in Hong Kong. *American Journal of Epidemiology.* 2016-1-27. [DOI: 10.1093/aje/kww041](http://dx.doi.org/10.1093/aje/kww041)  
+A Case-Only Approach in Hong Kong with a Temperate Climate. *International Journal of Biometeorology.* 2016;60(5):711-717 [DOI: 10.1007/s00484-015-1065-z](http://dx.doi.org/10.1007/s00484-015-1065-z) 
+95. Seow WJ, Downward GS, Hu W, Rothman N, Reiss B, Xu J, Bassig BA, Li JH, He J, Hosgood HD, Wu GP, Chapman RS, **Tian LW**, Wei FS, Caporaso NE, Vermeulen R, Lan Q. Indoor concentrations of nitrogen dioxide and sulfur dioxide from burning solid fuels for cooking and heating in Yunnan Province, China. *Indoor Air.*  2016:26(5):776-783 [DOI: 10.1111/ina.12251](http://dx.doi.org/10.1111/ina.12251)  
+96. Lin HL, Tao J, Du YD, Liu T, Qian ZM, **Tian LW**, Di Q, Shannon R, Guo LC, Zen WL, Xiao JP, Li X, He ZH, Xu YJ, Ma WJ. Particle size and chemical constituents of ambient particulate pollution associated with cardiovascular mortality in Guangzhou, China. *Environmental Pollution* 2016;208:758-766. [DOI: 10.1016/j.envpol.2015.10.056](http://dx.doi.org/10.1016/j.envpol.2015.10.056)  
+97. Lin HL, Tao J, Du YD, Liu T, Qian ZM, **Tian LW**, Di Q, Zen WL, Xiao JP, Guo LC, Li X, Xu YJ, Ma WJ. Differentiating the effects of characteristics of PM pollution on mortality from ischemic and hemorrhagic strokes, *International Journal of Hygiene and Environmental Health.* 2016;219:204-211. [DOI: 10.1016/j.ijheh.2015.11.002](http://dx.doi.org/10.1016/j.ijheh.2015.11.002) 
+98. Qiu H, **Tian LW\ \***, Sun SZ, Tang R, Chan KP. Pneumonia Hospitalization Risk in the Elderly Attributable to Cold and Hot Temperatures in Hong Kong. *American Journal of Epidemiology.* 2016;184(8):555-569. [DOI: 10.1093/aje/kww041](http://dx.doi.org/10.1093/aje/kww041)  
 99. Sun SZ, **Tian LW**, Qiu H, Chan KP, Tsang H, Tang R, Lee SY, Thach TQ, Wong CM. The influence of pre-existing health conditions on short-term mortality risks of temperature: Evidence from a prospective Chinese elderly cohort in Hong Kong. *Environmental Research.* 2016;148:7–14. [DOI: 10.1016/j.envres.2016.03.012](http://dx.doi.org/10.1016/j.envres.2016.03.012)
 100. **Tian LW\ \***, Qiu H, Sun SZ, Lin HL. Emergency Cardiovascular Hospitalization Risk Attributable to Cold Temperatures in Hong Kong. *Circulation Cardiovascular Quality and Outcomes.* 2016;9:135–142. [DOI: 10.1161/CIRCOUTCOMES.115.002410](http://dx.doi.org/10.1161/CIRCOUTCOMES.115.002410)
-101. Guo YM, Gasparrini A, Armstrong BG, Tawatsupa B, Tobias A, Lavigne E, Coelho MS, Pan X, Kim H, Hashizume M, Honda Y, Guo YL, Wu CF, Zanobetti A, Schwartz JD, Bell ML, Overcenco A, Punnasiri K, Li S, **Tian LW**, Saldiva P, Williams G, Tong S. Temperature Variability and Mortality: A Multi-Country Study. *Environmental Health Perspectives.* 2016;124(10):1554-9. [DOI: 10.1289/EHP149](http://dx.doi.org/10.1289/EHP149)  
-102. Lin HL, Ma WJ, Qiu H, Vaughn MG, Nelson EJ, Qian ZM, **Tian LW\ \***. Is standard deviation of daily PM2.5 concentration associated with respiratory mortality? *Environmental Pollution.* 2016 Jun 1;216:208-214. [DOI: 10.1016/j.envpol.2016.05.068](http://dx.doi.org/10.1016/j.envpol.2016.05.068)  
-103. Ho KF, Chang CC, **Tian LW**, Chan CS, Musa Bandowe BA, Lui KH, Lee KY, Chuang KJ, Liu CY, Ning Z, Chuang HC. Effects of polycyclic aromatic compounds in fi ne particulate matter generated from household coal combustion on response to EGFR mutations in vitro. *Environmental Pollution.* 2016;218:1262–9. [DOI: 10.1016/j.envpol.2016.08.084](http://dx.doi.org/10.1016/j.envpol.2016.08.084)  
-104. Lin HL, Liu T, Fang F, Xiao JP, Zeng WL, Li X, Guo LC, **Tian LW**, Schootman M, Stamatakis KA, Qian ZM, Ma WJ. Mortality benefits of vigorous air quality improvement interventions during the periods of APEC Blue and Parade Blue in Beijing , China. *Environmental Pollution.* 2016-Oct-1, [DOI: 10.1016/j.envpol.2016.09.041](http://dx.doi.org/10.1016/j.envpol.2016.09.041)  
-105. Li JH, Sun SZ, Tang R, Qiu H, Huang QY, Mason TG, **Tian LW\ \***. Major Air Pollutants and Acute Risk of COPD: A Systematic Review and Meta-analysis. *International Journal of Chronic Obstructive Pulmonary Disease* 2016-10-25. In press.  
-106. Sun SZ, Qiu H, Ho KF,**Tian LW\ \***. Chemical components of respirable particulate matter associated with emergency hospital admissions for type 2 diabetes in Hong Kong. Environ Int. 2016;97:93–99. [DOI: 10.1016/j.envint.2016.10.022](http://dx.doi.org/10.1016/j.envint.2016.10.022)  
+101. Guo YM, Gasparrini A, Armstrong BG, Tawatsupa B, Tobias A, Lavigne E, Coelho MS, Pan X, Kim H, Hashizume M, Honda Y, Guo YL, Wu CF, Zanobetti A, Schwartz JD, Bell ML, Overcenco A, Punnasiri K, Li S, **Tian LW**, Saldiva P, Williams G, Tong S. Temperature Variability and Mortality: A Multi-Country Study. *Environmental Health Perspectives.* 2016;124(10):1554-1559. [DOI: 10.1289/EHP149](http://dx.doi.org/10.1289/EHP149)  
+102. Lin HL, Ma WJ, Qiu H, Vaughn MG, Nelson EJ, Qian ZM, **Tian LW\ \***. Is standard deviation of daily PM2.5 concentration associated with respiratory mortality? *Environmental Pollution.* 2016;216:208-214. [DOI: 10.1016/j.envpol.2016.05.068](http://dx.doi.org/10.1016/j.envpol.2016.05.068)  
+103. Ho KF, Chang CC, **Tian LW**, Chan CS, Musa Bandowe BA, Lui KH, Lee KY, Chuang KJ, Liu CY, Ning Z, Chuang HC. Effects of polycyclic aromatic compounds in fi ne particulate matter generated from household coal combustion on response to EGFR mutations in vitro. *Environmental Pollution.* 2016;218:1262–9. [DOI: 10.1016/j.envpol.2016.08.084](http://dx.doi.org/10.1016/j.envpol.2016.08.084) 
+104. Li JH, Sun SZ, Tang R, Qiu H, Huang QY, Mason TG, **Tian LW\ \***. Major Air Pollutants and Acute Risk of COPD: A Systematic Review and Meta-analysis. *International Journal of COPD* 2016;11:3079–3091. [DOI: 10.2147/COPD.S122282](http://dx.doi.org/10.2147/COPD.S122282) 
+105. Sun SZ, Qiu H, Ho KF, **Tian LW\ \***. Chemical components of respirable particulate matter associated with emergency hospital admissions for type 2 diabetes in Hong Kong. Environ Int. 2016;97:93–99. [DOI: 10.1016/j.envint.2016.10.022](http://dx.doi.org/10.1016/j.envint.2016.10.022)  
+
+
+### Year 2017 
+
+106. Lin HL, Liu T, Fang F, Xiao JP, Zeng WL, Li X, Guo LC, **Tian LW**, Schootman M, Stamatakis KA, Qian ZM, Ma WJ. Mortality benefits of vigorous air quality improvement interventions during the periods of APEC Blue and Parade Blue in Beijing , China. *Environmental Pollution.* 2017;220(Pt A):222-227. [DOI: 10.1016/j.envpol.2016.09.041](http://dx.doi.org/10.1016/j.envpol.2016.09.041)  
+107. Lui KH, Bandowe BAM, **Tian LW**, Chan CS, Cao JJ, Ning Z, Lee SC, Ho KF. Cancer risk from polycyclic aromatic compounds in fine particulate matter generated from household coal combustion in Xuanwei, China. *Chemosphere*. 2017;169:660–668. [DOI: 10.1016/j.chemosphere.2016.11.112](http://dx.doi.org/10.1016/j.chemosphere.2016.11.112)
+
 
 <!---
 
