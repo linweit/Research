@@ -183,7 +183,7 @@ A Case-Only Approach in Hong Kong with a Temperate Climate. *International Journ
 109. Qiu H, Sun SZ, Tsang H, Wong CM, Lee RSY, Schooling CM, **Tian LW\ \***. 2017. Fine Particulate Matter Exposure and Incidence of Stroke: A Cohort Study in Hong Kong. *Neurology.* 88(18):1709-1717. [DOI: 10.1212/WNL.0000000000003903](http://dx.doi.org/10.1212/WNL.0000000000003903)  
 110. Lui KH, Chan CS, **Tian LW**, Ning BF, Zhou YP, Song XL, Li JW, Cao JJ, Lee SC, Ho KF\*. Elements in Fine Particulate Matter (PM2.5) from Indoor Air During Household Stoves Coal Combustion at Xuanwei, China. *Aerosol Sci Eng.*  2017. [DOI: 10.1007/s41810-017-0004-2](http://dx.doi.org/10.1007/s41810-017-0004-2)   
 111. **Tian LW**, Qiu H, Sun S, Tsang H, Chan KP, Leung WK\*. Association between emergency admission for peptic ulcer bleeding and air pollution: a case-crossover analysis in Hong Kong’s elderly population. *Lancet Planet Heal.* 2017;1:e74-81. [DOI: 10.1016/S2542-5196(17)30021-9](http://dx.doi.org/10.1016/S2542-5196(17)30021-9)  
-112. Finkelman RB, **Tian LW**. The Health Impacts of Coal Use in China. *International Geology Review*. 2017. [DOI: 10.1080/00206814.2017.1335624](http://dx.doi.org/10.1080/00206814.2017.1335624) 
+112. **Tian LW\ \***, Sun SZ. Ambient Air Pollution and Health Impact in China. Adv Exp Med Biol. 2017; 1017: 215–232. [DOI: 10.1007/978-981-10-5657-4_9](http://dx.doi.org/10.1007/978-981-10-5657-4_9)  
 113. Ge EJ, Fan M, Qiu H, Hu H, **Tian LW**, Wang XM, Xu GZ, Wei XL. Ambient sulfur dioxide levels associated with reduced risk of initial outpatient visits for tuberculosis: A population based time series analysis. *Environ Pollut* 2017; 228: 408–15. [DOI: 10.1016/j.envpol.2017.05.051](http://dx.doi.org/10.1016/j.envpol.2017.05.051) 
 114. Lui KH, Dai WT, Chan CS, **Tian LW**, Ning BF, Zhou YP, Song XL, Wang B, Li JW, Cao JJ, Lee SC, Ho KF. Cancer risk from gaseous carbonyl compounds in indoor environment generated from household coal combustion in Xuanwei, China. *Environ Sci Pollut Res* 2017. [DOI: 10.1007/s11356-017-9223-y](http://dx.doi.org/10.1007/s11356-017-9223-y) 
 115. Pun VC, Ho KF, **Tian LW**. Particulate matter from re-suspended mineral dust and emergency cause-specific respiratory hospitalizations in Hong Kong. *Atmospheric Environment* 2017. [DOI: 10.1016/j.atmosenv.2017.06.038](http://dx.doi.org/10.1016/j.atmosenv.2017.06.038) 
@@ -191,6 +191,15 @@ A Case-Only Approach in Hong Kong with a Temperate Climate. *International Journ
 Dung DV, Mayvaneh F, Saldiva P, Williams G, Tong SL. Heat Wave and Mortality: A Multicountry, Multicommunity Study. *Environ Health Perspect* 2017. [DOI: 10.1289/EHP1026](http://dx.doi.org/10.1289/EHP1026) 
 117. Lu SL, Tan Z, Liu P, Zhao H, Liu D, Yu S, Cheng P, Sandar M, Hu J, **Tian LW**, Wu M, Yonemochi S, Wang QY. Single particle aerosol mass spectrometry of coal combustion particles associated with high lung cancer rates in Xuanwei and Fuyuan , China. *Chemosphere* 2017; 186: 278–286. [DOI: 10.1016/j.chemosphere.2017.07.161](http://dx.doi.org/10.1016/j.chemosphere.2017.07.161)  
 118. Lin HL, Ma WJ, Qiu H, Wang X, Trevathan E, Yao Z, Dong GH, Vaughn MG, Qian ZM, **Tian LW\ \***. Using daily excessive concentration hours to explore the short-term mortality effects of ambient PM 2.5 in Hong Kong. *Environ Pollut* 2017. [DOI: 10.1016/j.envpol.2017.07.060](http://dx.doi.org/10.1016/j.envpol.2017.07.060 ) 
+
+
+### Year 2018  
+
+119. Finkelman RB, **Tian LW**. The Health Impacts of Coal Use in China. *International Geology Review*. 2018. [DOI: 10.1080/00206814.2017.1335624](http://dx.doi.org/10.1080/00206814.2017.1335624) 
+120. Liang HQ, Qiu H, **Tian LW\ \***. Short-term effects of fi ne particulate matter on acute myocardial infraction mortality and years of life lost : A time series study in Hong Kong. Sci. Total Environ. Elsevier B.V.; 2018; 615: 558–563. [DOI: 10.1016/j.scitotenv.2017.09.266](http://dx.doi.org/10.1016/j.scitotenv.2017.09.266)  
+121. Qiu H, Schooling CM, Sun SZ, Tsang H, Yang Y, Lee RS, Wong CM, **Tian LW\ \***. Long-term exposure to fine particulate matter air pollution and type 2 diabetes mellitus in elderly: A cohort study in Hong Kong. Environ. Int. Elsevier; 2018; in press. [DOI: 10.1016/j.envint.2018.01.008](http://dx.doi.org/10.1016/j.envint.2018.01.008)   
+122. Dai YR, Qiu H, Sun SZ, Yang Y, Lin HL, **Tian LW\ \***. Age-dependent Effect of Ambient Ozone on Emergency Asthma Hospitalizations in Hong Kong. J. Allergy Clin. Immunol. American Academy of Allergy, Asthma & Immunology; 2018; in press. [DOI: 10.1016/j.jaci.2018.01.006](http://dx.doi.org/10.1016/j.jaci.2018.01.006)  
+
 
 
 
