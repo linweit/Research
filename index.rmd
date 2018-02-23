@@ -196,11 +196,11 @@ Dung DV, Mayvaneh F, Saldiva P, Williams G, Tong SL. Heat Wave and Mortality: A 
 ### Year 2018  
 
 119. Finkelman RB, **Tian LW**. The Health Impacts of Coal Use in China. *International Geology Review*. 2018. [DOI: 10.1080/00206814.2017.1335624](http://dx.doi.org/10.1080/00206814.2017.1335624) 
-120. Liang HQ, Qiu H, **Tian LW\ \***. Short-term effects of fine particulate matter on acute myocardial infraction mortality and years of life lost : A time series study in Hong Kong. *Sci. Total Environ.* 2018; 615: 558–563. [DOI: 10.1016/j.scitotenv.2017.09.266](http://dx.doi.org/10.1016/j.scitotenv.2017.09.266)  
+120. Liang HQ, Qiu H, **Tian LW\ \***. Short-term effects of fine particulate matter on acute myocardial infraction mortality and years of life lost: A time series study in Hong Kong. *Sci. Total Environ.* 2018; 615: 558–563. [DOI: 10.1016/j.scitotenv.2017.09.266](http://dx.doi.org/10.1016/j.scitotenv.2017.09.266)  
 121. Qiu H, Schooling CM, Sun SZ, Tsang H, Yang Y, Lee RS, Wong CM, **Tian LW\ \***. Long-term exposure to fine particulate matter air pollution and type 2 diabetes mellitus in elderly: A cohort study in Hong Kong. *Environ. Int.* 2018; in press. [DOI: 10.1016/j.envint.2018.01.008](http://dx.doi.org/10.1016/j.envint.2018.01.008)   
 122. Dai YR, Qiu H, Sun SZ, Yang Y, Lin HL, **Tian LW\ \***. Age-dependent Effect of Ambient Ozone on Emergency Asthma Hospitalizations in Hong Kong. *J. Allergy Clin. Immunol.* 2018; in press. [DOI: 10.1016/j.jaci.2018.01.006](http://dx.doi.org/10.1016/j.jaci.2018.01.006)  
 123. Tang R, **Tian LW**, Thach TQ, Tsui TH, Brauer M, Lee M, Allen R, Yuchi W, Lai PC, Wong P, Barratt B. Integrating travel behavior with land use regression to estimate dynamic air pollution exposure in Hong Kong. *Environ. Int.* 2018; 113: 100–108. [DOI: 10.1016/j.envint.2018.01.009](http://dx.doi.org/10.1016/j.envint.2018.01.009) 
-124. Fan ZL, Pun VC, Chen XC, Hong Q, **Tian LW**, Ho SS, Ho KF. Personal exposure to fine particles (PM2.5) and respiratory inflammation of common residents in Hong Kong. *Environ. Res.* 2018; 164: 24–31. [DOI: 10.1016/j.envres.2018.02.009](http://dx.doi.org/10.1016/j.envres.2018.02.009) 
+124. Fan ZL, Pun VC, Chen XC, Hong Q, **Tian LW**, Ho SS, Lee SC, Tse LA, Ho KF. Personal exposure to fine particles (PM2.5) and respiratory inflammation of common residents in Hong Kong. *Environ. Res.* 2018; 164: 24–31. [DOI: 10.1016/j.envres.2018.02.009](http://dx.doi.org/10.1016/j.envres.2018.02.009) 
 
 
 
