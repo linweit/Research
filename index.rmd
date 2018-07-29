@@ -206,9 +206,13 @@ Dung DV, Mayvaneh F, Saldiva P, Williams G, Tong SL. Heat Wave and Mortality: A 
 126. Sun SZ, Laden F, Hart JE, Qiu H, Wang Y, Wong CM, Lee RSY, **Tian LW\ \***. Seasonal temperature variability and emergency hospital admissions for respiratory diseases: a population-based cohort study. *Thorax* 2018; [DOI: 10.1136/thoraxjnl-2017-211333](http://dx.doi.org/10.1136/thoraxjnl-2017-211333)  
 127. Ran JJ, Qiu H, Sun SZ, **Tian LW\ \***. Short-term effects of ambient benzene and TEX ( toluene, ethylbenzene, and xylene combined) on cardiorespiratory mortality in Hong Kong. *Environment International*, 2018; 117: 91-98. [DOI: 10.1016/j.envint.2018.04.049](http://dx.doi.org/10.1016/j.envint.2018.04.049) 
 128. Yang Y, Tang R, Qiu H, Lai PC, Wong P, Thach TQ, Allen R, Brauer M, **Tian LW**, Benjamin B. Long term exposure to air pollution and mortality in an elderly cohort in Hong Kong. *Environment International*, 2018; 117:99-106. [DOI: 10.1016/j.envint.2018.04.034](http://dx.doi.org/10.1016/j.envint.2018.04.034)
+129. Qiu H, Pun VC, **Tian LW\ \***. Short-term effects of fine and coarse particles on deaths in Hong Kong elderly population: An analysis of mortality displacement. *Environ Pollut*, 2018, 241:148–154. [DOI: 10.1016/j.envpol.2018.05.056](http://dx.doi.org/10.1016/j.envpol.2018.05.056)  
+130. Yang B, Bloom MS, Markevych I, Min Z, Vaughn MG, Cummings-vaughn LA, Li S, Chen G, Bowatte G, Perret JL, Dharmage SC, Heinrich J, Yim SH, Lin S, **Tian LW**, Yang M, Liu KK, Zeng XW, Hu LW, Guo Y, Dong GH. Exposure to ambient air pollution and blood lipids in adults: The 33 Communities Chinese Health Study. *Environ Int*, 2018, 119:485–492. [DOI: 10.1016/j.envint.2018.07.016](http://dx.doi.org/10.1016/j.envint.2018.07.016)  
+131. Ran JJ, Qiu H, Sun SZ, Yang AM, **Tian LW\ \***. Are ambient volatile organic compounds environmental stressors for heart failure? *Environ Pollut*, 2018, in press. [DOI: 10.1016/j.envpol.2018.07.086](http://dx.doi.org/10.1016/j.envpol.2018.07.086)  
 
+### Year 2019  
 
-
+132. Sun SZ, **Tian LW\ \***, Cao WN, Lai PC, Wong PPY, Lee RS, Mason TG, Krämer A, Wong CM. Urban climate modified short-term association of air pollution with pneumonia mortality in Hong Kong. *Sci Total Environ*. 2019, 646:618–624. [DOI: 10.1016/j.scitotenv.2018.07.311](http://dx.doi.org/10.1016/j.scitotenv.2018.07.311)
 
 
 
