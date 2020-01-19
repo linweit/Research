@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -268,7 +268,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -330,6 +329,7 @@ summary {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -341,18 +341,6 @@ summary {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -719,7 +707,11 @@ The University of Hong Kong</p>
 </li>
 <li>Ran JJ, Yang AM, Sun SZ, Han LF, Yang Y, Mason TG, Li JH, Chan KP, Lee RSY, Qiu H, <strong>Tian LW *</strong>. Long-term Exposure to Ambient Fine Particulate Matter and Mortality from Renal Failure: A Retrospective Cohort Study in Hong Kong. <em>American Journal of Epidemiology.</em> 2019-12-17 <a href="http://dx.doi.org/10.1093/aje/kwz282">DOI:10.1093/aje/kwz282</a><br />
 </li>
-<li>Sun SZ, Cao WN, Chan KP, Ran JJ, Ge Y, Zhang YQ, Feng YL, Zeng Qiang, Lee RSY, Wong CM, <strong>Tian LW *</strong>, Lei YJ. Cigarette smoking increases deaths associated with air pollution in Hong Kong. <em>Atmospheric Environment.</em> 2020-01-08 <a href="http://dx.doi.org/10.1016/j.atmosenv.2020.117266">DOI:10.1016/j.atmosenv.2020.117266</a></li>
+<li>Sun SZ, Cao WN, Chan KP, Ran JJ, Ge Y, Zhang YQ, Feng YL, Zeng Qiang, Lee RSY, Wong CM, <strong>Tian LW *</strong>, Lei YJ. Cigarette smoking increases deaths associated with air pollution in Hong Kong. <em>Atmospheric Environment.</em> 2020-01-08 <a href="http://dx.doi.org/10.1016/j.atmosenv.2020.117266">DOI:10.1016/j.atmosenv.2020.117266</a><br />
+</li>
+<li>Ran JJ, Sun SZ, Han LF, Zhao Shi, Chen DY, Guo F, Li JH, Qiu H, Lei YJ, <strong>Tian LW *</strong>. Fine particulate matter and cause-specific mortality in the Hong Kong elder patients with chronic kidney disease. <em>Chemosphere</em>. 2020;247:125913. <a href="http://dx.doi.org/10.1016/j.chemosphere.2020.125913">DOI:10.1016/j.chemosphere.2020.125913</a><br />
+</li>
+<li>Sun SZ, Sarkar C, Kumari S, James P, Cao WN, Lee RSY, , <strong>Tian LW</strong>, Webster C. Air Pollution Associated Respiratory Mortality Risk Alleviated by Residential Greenness in the Chinese Elderly Health Service Cohort. <em>Environmental Research</em>. 2020:109139 <a href="http://dx.doi.org/10.1016/j.envres.2020.109139">DOI:10.1016/j.envres.2020.109139</a></li>
 </ol>
 </div>
 </div>
@@ -741,6 +733,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
